@@ -1,10 +1,9 @@
 Useful resources
 
-Where to find astro papers:
+__Where to find astro papers__:
 
 - [NASA/ADS](https://ui.adsabs.harvard.edu)
-- https://scixplorer.org
-
+- [SciExplorer](https://scixplorer.org) (this is the new ADS)
 
 Stellar Populations papers:
 
